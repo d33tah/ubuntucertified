@@ -1,0 +1,65 @@
+{
+  "Audio": [
+    "Advanced Micro Devices, Inc. [AMD/ATI] Kabini HDMI/DP Audio", 
+    "Advanced Micro Devices [AMD] FCH Azalia Controller", 
+    "Advanced Micro Devices [AMD] FCH Azalia Controller", 
+    "Advanced Micro Devices, Inc. [AMD/ATI] Unknown"
+  ], 
+  "vendor": "HP", 
+  "Network": [
+    "Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller"
+  ], 
+  "System": [
+    "Hewlett-Packard HP ProDesk 405 G2 MT"
+  ], 
+  "BIOS": [
+    "AMI 00.19", 
+    "AMI 02.11"
+  ], 
+  "Other": [
+    "Unknown HD-Audio Generic Front Headphone", 
+    "Unknown HD-Audio Generic HDMI/DP,pcm=3", 
+    "Unknown HD-Audio Generic HDMI/DP,pcm=7", 
+    "Unknown HD-Audio Generic Line", 
+    "Unknown HD-Audio Generic Line Out", 
+    "Unknown HD-Audio Generic Mic", 
+    "Unknown HP WMI hotkeys", 
+    "Unknown Power Button", 
+    "Advanced Micro Devices [AMD] Family 16h Processor Functions 5:1", 
+    "Advanced Micro Devices Hudson SATA Controller [AHCI mode]", 
+    "Advanced Micro Devices Hudson SMBus Controller", 
+    "Advanced Micro Devices [AMD] FCH LPC Bridge", 
+    "Hewlett-Packard Smart Card Keyboard", 
+    "Advanced Micro Devices Unknown", 
+    "Lite-On Technology Corp. Unknown", 
+    "Linux Foundation 2.0 root hub", 
+    "Linux Foundation 3.0 root hub"
+  ], 
+  "Video": [
+    "Advanced Micro Devices, Inc. [AMD/ATI] Mullins [Radeon APU A4-6000 with R2 Graphics]"
+  ], 
+  "Board": [
+    "Hewlett-Packard 2240"
+  ], 
+  "Ethernet": [
+    "Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller"
+  ], 
+  "devicetype": "Desktop", 
+  "model": "ProDesk 405 G2 MT Business PC", 
+  "Disk": [
+    "Unknown ST500DM002-1BD142"
+  ], 
+  "Mouse": [
+    "PixArt Imaging Inc. Optical Mouse"
+  ], 
+  "Processor": [
+    "AMD AMD A8-6410 APU with AMD Radeon R5 Graphics"
+  ], 
+  "Chassis": [
+    "Hewlett-Packard Desktop"
+  ], 
+  "Usb": [
+    "Advanced Micro Devices Hudson USB EHCI Controller", 
+    "Advanced Micro Devices [AMD] FCH USB XHCI Controller"
+  ]
+}
